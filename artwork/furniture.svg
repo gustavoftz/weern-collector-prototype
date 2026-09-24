@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="320" height="220" viewBox="0 0 320 220"><defs><linearGradient id="wall" x2="0" y2="1"><stop stop-color="#F8F9F5"/><stop offset="1" stop-color="#E5ECE5"/></linearGradient><linearGradient id="chair" x2="0" y2="1"><stop stop-color="#688D77"/><stop offset="1" stop-color="#365A46"/></linearGradient></defs><rect width="320" height="220" fill="url(#wall)"/><path d="M0 156h320v64H0Z" fill="#D6DFD7"/>
+<path d="M0 156h320" stroke="#BDD1C4"/><path d="M0 203 88 156m133 0 99 39" stroke="#C9D2C9"/>
+<ellipse cx="160" cy="192" rx="79" ry="12" fill="#10211A" opacity=".12"/>
+<path d="m106 142-8 48q-1 4 4 4h3q3 0 4-4l16-48Zm89 0 16 48q1 4 4 4h3q5 0 4-4l-8-48Z" fill="#826D4A"/>
+<path d="m123 145 1 36q0 4 5 4h2q4 0 4-4l1-36m48 0v36q0 4 4 4h2q4 0 4-4l2-36" fill="#65573E"/>
+<path d="M105 67q1-23 24-23h62q23 0 24 23l5 66H100Z" fill="url(#chair)"/>
+<path d="M119 67q1-11 14-11h54q13 0 14 11l3 51h-88Z" fill="#527565"/>
+<path d="M108 116h104q13 0 14 14l1 12q1 14-14 14H107q-15 0-14-14l1-12q1-14 14-14Z" fill="#14683F"/>
+<path d="M111 118h98q12 0 14 10l1 7H96l1-7q2-10 14-10Z" fill="#688D77"/>
+<path d="M117 122h86" stroke="#A2B6A7" stroke-width="1.5" opacity=".65"/>
+<path d="M114 148h92" stroke="#10211A" opacity=".18"/>
+</svg>
